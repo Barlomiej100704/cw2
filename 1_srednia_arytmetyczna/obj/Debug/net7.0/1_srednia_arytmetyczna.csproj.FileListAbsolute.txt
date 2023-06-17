@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\1_srednia_arytmetyczna.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\1_srednia_arytmetyczna.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\1_srednia_arytmetyczna.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\1_srednia_arytmetyczna.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\1_srednia_arytmetyczna.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\1_srednia_arytmetyczna.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\1_srednia_arytmetyczna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\1_srednia_arytmetyczna.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\1_srednia_arytmetyczna.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\1_srednia_arytmetyczna.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\1_srednia_arytmetyczna.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\refint\1_srednia_arytmetyczna.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\1_srednia_arytmetyczna.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\1_srednia_arytmetyczna.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\ref\1_srednia_arytmetyczna.dll

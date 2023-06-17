@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\cw2.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\cw2.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\cw2.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\cw2.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\bin\Debug\net7.0\cw2.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\cw2.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\cw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\cw2.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\cw2.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\cw2.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\cw2.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\refint\cw2.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\cw2.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\cw2.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\cw2\obj\Debug\net7.0\ref\cw2.dll
