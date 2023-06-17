@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\bin\Debug\net7.0\7_punkt.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\bin\Debug\net7.0\7_punkt.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\bin\Debug\net7.0\7_punkt.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\bin\Debug\net7.0\7_punkt.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\bin\Debug\net7.0\7_punkt.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\7_punkt.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\7_punkt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\7_punkt.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\7_punkt.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\7_punkt.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\7_punkt.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\refint\7_punkt.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\7_punkt.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\7_punkt.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\7_punkt\obj\Debug\net7.0\ref\7_punkt.dll

@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\bin\Debug\net7.0\8_kalkulator.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\bin\Debug\net7.0\8_kalkulator.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\bin\Debug\net7.0\8_kalkulator.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\bin\Debug\net7.0\8_kalkulator.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\bin\Debug\net7.0\8_kalkulator.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\8_kalkulator.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\8_kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\8_kalkulator.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\8_kalkulator.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\8_kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\8_kalkulator.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\refint\8_kalkulator.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\8_kalkulator.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\8_kalkulator.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\8_kalkulator\obj\Debug\net7.0\ref\8_kalkulator.dll

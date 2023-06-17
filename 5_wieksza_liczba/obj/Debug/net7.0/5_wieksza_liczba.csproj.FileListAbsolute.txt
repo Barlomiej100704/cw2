@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\bin\Debug\net7.0\5_wieksza_liczba.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\bin\Debug\net7.0\5_wieksza_liczba.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\bin\Debug\net7.0\5_wieksza_liczba.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\bin\Debug\net7.0\5_wieksza_liczba.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\bin\Debug\net7.0\5_wieksza_liczba.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\5_wieksza_liczba.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\5_wieksza_liczba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\5_wieksza_liczba.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\5_wieksza_liczba.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\5_wieksza_liczba.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\5_wieksza_liczba.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\refint\5_wieksza_liczba.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\5_wieksza_liczba.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\5_wieksza_liczba.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\5_wieksza_liczba\obj\Debug\net7.0\ref\5_wieksza_liczba.dll

@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\bin\Debug\net7.0\4_dodawanie_ulamkow.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\bin\Debug\net7.0\4_dodawanie_ulamkow.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\bin\Debug\net7.0\4_dodawanie_ulamkow.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\bin\Debug\net7.0\4_dodawanie_ulamkow.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\bin\Debug\net7.0\4_dodawanie_ulamkow.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\4_dodawanie_ulamkow.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\4_dodawanie_ulamkow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\4_dodawanie_ulamkow.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\4_dodawanie_ulamkow.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\4_dodawanie_ulamkow.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\4_dodawanie_ulamkow.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\refint\4_dodawanie_ulamkow.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\4_dodawanie_ulamkow.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\4_dodawanie_ulamkow.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\4_dodawanie_ulamkow\obj\Debug\net7.0\ref\4_dodawanie_ulamkow.dll

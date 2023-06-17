@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\bin\Debug\net7.0\3_bmi.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\bin\Debug\net7.0\3_bmi.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\bin\Debug\net7.0\3_bmi.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\bin\Debug\net7.0\3_bmi.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\bin\Debug\net7.0\3_bmi.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\3_bmi.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\3_bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\3_bmi.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\3_bmi.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\3_bmi.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\3_bmi.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\refint\3_bmi.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\3_bmi.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\3_bmi.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\3_bmi\obj\Debug\net7.0\ref\3_bmi.dll

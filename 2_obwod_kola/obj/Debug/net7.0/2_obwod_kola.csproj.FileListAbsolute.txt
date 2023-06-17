@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\bin\Debug\net7.0\2_obwod_kola.exe
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\bin\Debug\net7.0\2_obwod_kola.deps.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\bin\Debug\net7.0\2_obwod_kola.runtimeconfig.json
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\bin\Debug\net7.0\2_obwod_kola.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\bin\Debug\net7.0\2_obwod_kola.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\2_obwod_kola.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\2_obwod_kola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\2_obwod_kola.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\2_obwod_kola.AssemblyInfo.cs
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\2_obwod_kola.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\2_obwod_kola.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\refint\2_obwod_kola.dll
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\2_obwod_kola.pdb
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\2_obwod_kola.genruntimeconfig.cache
+C:\Users\barte\Documents\Visual Studio 2022\C#\cw2\2_obwod_kola\obj\Debug\net7.0\ref\2_obwod_kola.dll
